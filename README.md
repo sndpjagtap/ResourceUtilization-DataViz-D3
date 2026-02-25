@@ -3,4 +3,4 @@ An exploratory visualization to analyze energy production and consumption data f
 
 The dataset use is compiled by the US Energy Information Administration. It includes data on the energy produced and consumed by most world countries between 1980 and 2012. 
 
-see live visualization at  http://pages.iu.edu/~sajagtap/dataVis/01/index.html
+see live visualization at [here](https://sndpjagtap.github.io/ResourceUtilization-DataViz-D3/)
