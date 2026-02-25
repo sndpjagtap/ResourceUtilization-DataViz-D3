@@ -7,4 +7,4 @@ The dataset use is compiled by the US Energy Information Administration. It incl
 
 See the live visualization at [here](https://sndpjagtap.github.io/ResourceUtilization-DataViz-D3/)
 
-The project built using D3 Javascript Library.
+The project is built using D3 Javascript Library.
