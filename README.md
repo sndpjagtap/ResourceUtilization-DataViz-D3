@@ -1,4 +1,4 @@
-# Energy Consumption and Production Analysis
+# Visualization of energy consumption vs production
 An exploratory visualization to analyze energy production and consumption data from around the world. 
 
 The goal of this project is to analyze the trend of various energy types over time, to find a relationships between different variable and to compare these trend with different countries around the world.
